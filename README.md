@@ -27,7 +27,3 @@ This project focuses on analyzing employee data to extract meaningful insights r
 ## 📌 Conclusion
 
 The analysis shows that employee performance is positively related to experience, and salary distribution varies across departments and cities.
-
----
-
-Simple project to understand basic data analysis and visualization using Python.
