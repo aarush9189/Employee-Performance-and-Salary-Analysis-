@@ -1,0 +1,16 @@
+Employee_ID,Name,Age,Department,Designation,Salary,Experience_Years,City,Joining_Year,Performance_Score
+101,Amit Sharma,28,IT,Software Engineer,60000,3,Delhi,2021,8
+102,Priya Singh,32,HR,HR Manager,75000,7,Mumbai,2018,9
+103,Rahul Verma,26,IT,Data Analyst,55000,2,Bangalore,2022,7
+104,Sneha Kapoor,30,Finance,Accountant,65000,5,Delhi,2020,8
+105,Arjun Mehta,35,IT,Senior Developer,90000,10,Pune,2015,9
+106,Neha Gupta,29,Marketing,Marketing Executive,50000,4,Mumbai,2019,7
+107,Rohit Jain,40,Finance,Finance Manager,95000,12,Delhi,2013,9
+108,Kajal Arora,27,IT,Frontend Developer,58000,3,Bangalore,2021,8
+109,Vikas Yadav,31,Sales,Sales Manager,70000,6,Noida,2018,7
+110,Anjali Roy,25,HR,HR Executive,48000,2,Kolkata,2023,6
+111,Manish Kumar,38,IT,Backend Developer,85000,11,Hyderabad,2014,9
+112,Pooja Sharma,29,Finance,Financial Analyst,62000,4,Pune,2020,8
+113,Suresh Patel,33,Sales,Sales Executive,52000,7,Ahmedabad,2017,7
+114,Ritu Malhotra,28,Marketing,SEO Specialist,54000,3,Delhi,2021,8
+115,Deepak Singh,36,IT,DevOps Engineer,88000,9,Bangalore,2016,9
